@@ -1,0 +1,461 @@
+D:\Project C#\Project_PTTKHT\Project\bin\Debug\Project.exe
+D:\Project C#\Project_PTTKHT\Project\bin\Debug\Project.pdb
+D:\Project C#\Project_PTTKHT\Project\obj\Debug\ResolveAssemblyReference.cache
+D:\Project C#\Project_PTTKHT\Project\obj\Debug\Project.Properties.Resources.resources
+D:\Project C#\Project_PTTKHT\Project\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Project C#\Project_PTTKHT\Project\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Project C#\Project_PTTKHT\Project\obj\Debug\Project.exe.licenses
+D:\Project C#\Project_PTTKHT\Project\obj\Debug\Project.exe
+D:\Project C#\Project_PTTKHT\Project\obj\Debug\Project.pdb
+D:\Project C#\Project_PTTKHT\Project\obj\Debug\Project.frmMain.resources
+D:\Project C#\Project_PTTKHT\Project\obj\Debug\Project.frmDangNhap.resources
+D:\Project C#\Project_PTTKHT\Project\obj\Debug\Project.Component.UC_KhachHang.resources
+D:\Project C#\Project_PTTKHT\Project\obj\Debug\Project.Component.UC_GioiThieu.resources
+D:\Project C#\Project_PTTKHT\Project\obj\Debug\Project.Component.UC_DoiMatKhau.resources
+D:\Project C#\Project_PTTKHT\Project\obj\Debug\Project.Component.UC_XeMay.resources
+D:\Project C#\Project_PTTKHT\Project\obj\Debug\Project.Component.UC_NhaCungCap.resources
+D:\Project C#\Project_PTTKHT\Project\obj\Debug\Project.Component.UC_NhanVien.resources
+D:\Project C#\Project_PTTKHT\Project\obj\Debug\Project.Component.UC_QuanTri.resources
+D:\Project C#\Project_PTTKHT\Project\obj\Debug\Project.Component.UC_NhapHang.resources
+D:\Project C#\Project_PTTKHT\Project\obj\Debug\Project.Component.UC_XuatHang.resources
+D:\Project C#\Project_PTTKHT\Project Backup\Project\obj\Debug\Project.exe
+D:\Project C#\Project_PTTKHT\Project Backup\Project\obj\Debug\Project.pdb
+D:\Project C#\Project_PTTKHT\Project Backup\Project\bin\Debug\Project.exe
+D:\Project C#\Project_PTTKHT\Project Backup\Project\bin\Debug\Project.pdb
+D:\Project C#\Project_PTTKHT\Project Backup\Project\obj\Debug\ResolveAssemblyReference.cache
+D:\Project C#\Project_PTTKHT\Project Backup\Project\obj\Debug\Project.Component.UC_BaoCaoNhapHang.resources
+D:\Project C#\Project_PTTKHT\Project Backup\Project\obj\Debug\Project.Component.UC_BaoCaoXuatHang.resources
+D:\Project C#\Project_PTTKHT\Project Backup\Project\obj\Debug\Project.Component.UC_DoanhThu.resources
+D:\Project C#\Project_PTTKHT\Project Backup\Project\obj\Debug\Project.Component.UC_GioiThieu.resources
+D:\Project C#\Project_PTTKHT\Project Backup\Project\obj\Debug\Project.Component.UC_DoiMatKhau.resources
+D:\Project C#\Project_PTTKHT\Project Backup\Project\obj\Debug\Project.Component.UC_HangBanChay.resources
+D:\Project C#\Project_PTTKHT\Project Backup\Project\obj\Debug\Project.Component.UC_KhachHang.resources
+D:\Project C#\Project_PTTKHT\Project Backup\Project\obj\Debug\Project.Component.UC_NhaCungCap.resources
+D:\Project C#\Project_PTTKHT\Project Backup\Project\obj\Debug\Project.Component.UC_NhanVien.resources
+D:\Project C#\Project_PTTKHT\Project Backup\Project\obj\Debug\Project.Component.UC_NhapHang.resources
+D:\Project C#\Project_PTTKHT\Project Backup\Project\obj\Debug\Project.Component.UC_QuanTri.resources
+D:\Project C#\Project_PTTKHT\Project Backup\Project\obj\Debug\Project.Component.UC_XeMay.resources
+D:\Project C#\Project_PTTKHT\Project Backup\Project\obj\Debug\Project.Component.UC_XuatHang.resources
+D:\Project C#\Project_PTTKHT\Project Backup\Project\obj\Debug\Project.frmMain.resources
+D:\Project C#\Project_PTTKHT\Project Backup\Project\obj\Debug\Project.frmDangNhap.resources
+D:\Project C#\Project_PTTKHT\Project Backup\Project\obj\Debug\Project.Properties.Resources.resources
+D:\Project C#\Project_PTTKHT\Project Backup\Project\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Project C#\Project_PTTKHT\Project Backup\Project\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Project C#\Project_PTTKHT\Project Backup\Project\obj\Debug\Project.exe.licenses
+D:\Project C#\Project_PTTKHT\Project Backup\Project\obj\Debug\Project.Reports.RP_HangBanChay.resources
+D:\Project C#\Project_PTTKHT\Project Backup\Project\obj\Debug\RdlCompile.cache
+D:\Project C#\Project_PTTKHT\Project Backup\Project\obj\Debug\RdlCompile.compiled
+D:\Project C#\Project_PTTKHT\Project Backup\Project\obj\Debug\Project.g.resources
+D:\Project C#\Project_PTTKHT\Project Backup\Project\obj\Debug\Project.Reports.In_DanhSachKhachHang.resources
+D:\Project C#\Project_PTTKHT\Project Backup\Project\obj\Debug\Project.Reports.In_DanhSachNhaCungCapcs.resources
+D:\Project C#\Project_PTTKHT\Project Backup\Project\obj\Debug\Project.Reports.In_DanhSachNhanVien.resources
+D:\Project C#\Project_PTTKHT\Project Backup\Project\obj\Debug\Project.Reports.In_DanhSachXeMay.resources
+D:\Project C#\Project_PTTKHT\Project Backup\Project\obj\Debug\Project.Reports.In_HoaDonNhap.resources
+D:\Project C#\Project_PTTKHT\Project Backup\Project\obj\Debug\Project.Reports.In_HoaDonXuat.resources
+D:\Project C#\Project_PTTKHT\Project\obj\Debug\Project.g.resources
+D:\Project C#\Project_PTTKHT\Project\obj\Debug\Project.Reports.In_DanhSachKhachHang.resources
+D:\Project C#\Project_PTTKHT\Project\obj\Debug\Project.Reports.In_DanhSachNhaCungCapcs.resources
+D:\Project C#\Project_PTTKHT\Project\obj\Debug\Project.Reports.In_DanhSachNhanVien.resources
+D:\Project C#\Project_PTTKHT\Project\obj\Debug\Project.Reports.In_DanhSachXeMay.resources
+D:\Project C#\Project_PTTKHT\Project\obj\Debug\Project.Reports.In_HoaDonNhap.resources
+D:\Project C#\Project_PTTKHT\Project\obj\Debug\Project.Reports.In_HoaDonXuat.resources
+D:\Project C#\Project_PTTKHT\Project\obj\Debug\Project.Reports.RP_HangBanChay.resources
+D:\Project C#\Project_PTTKHT\Project\obj\Debug\RdlCompile.cache
+D:\Project C#\Project_PTTKHT\Project\obj\Debug\RdlCompile.compiled
+D:\Project C#\Project_PTTKHT\Project\obj\Debug\Project.Reports.RP_DoanhThu.resources
+D:\Project C#\Project_PTTKHT\Project\obj\Debug\Project.Reports.RP_NhapHang.resources
+D:\Project C#\Project_PTTKHT\Project\obj\Debug\Project.Reports.RP_TonKho.resources
+D:\Project C#\Project_PTTKHT\Project\obj\Debug\Project.Reports.RP_XuatHang.resources
+E:\Project PTTK\Project\obj\Debug\Project.exe
+E:\Project PTTK\Project\obj\Debug\Project.pdb
+E:\Project PTTK\Project\bin\Debug\Project.exe
+E:\Project PTTK\Project\bin\Debug\Project.pdb
+E:\Project PTTK\Project\obj\Debug\ResolveAssemblyReference.cache
+E:\Project PTTK\Project\obj\Debug\Project.g.resources
+E:\Project PTTK\Project\obj\Debug\Project.Component.UC_GioiThieu.resources
+E:\Project PTTK\Project\obj\Debug\Project.Component.UC_DoiMatKhau.resources
+E:\Project PTTK\Project\obj\Debug\Project.Component.UC_KhachHang.resources
+E:\Project PTTK\Project\obj\Debug\Project.Component.UC_NhaCungCap.resources
+E:\Project PTTK\Project\obj\Debug\Project.Component.UC_NhanVien.resources
+E:\Project PTTK\Project\obj\Debug\Project.Component.UC_NhapHang.resources
+E:\Project PTTK\Project\obj\Debug\Project.Component.UC_QuanTri.resources
+E:\Project PTTK\Project\obj\Debug\Project.Component.UC_XeMay.resources
+E:\Project PTTK\Project\obj\Debug\Project.Component.UC_XuatHang.resources
+E:\Project PTTK\Project\obj\Debug\Project.frmMain.resources
+E:\Project PTTK\Project\obj\Debug\Project.frmDangNhap.resources
+E:\Project PTTK\Project\obj\Debug\Project.Properties.Resources.resources
+E:\Project PTTK\Project\obj\Debug\Project.Reports.In_DanhSachKhachHang.resources
+E:\Project PTTK\Project\obj\Debug\Project.Reports.In_DanhSachNhaCungCapcs.resources
+E:\Project PTTK\Project\obj\Debug\Project.Reports.In_DanhSachNhanVien.resources
+E:\Project PTTK\Project\obj\Debug\Project.Reports.In_DanhSachXeMay.resources
+E:\Project PTTK\Project\obj\Debug\Project.Reports.In_HoaDonNhap.resources
+E:\Project PTTK\Project\obj\Debug\Project.Reports.In_HoaDonXuat.resources
+E:\Project PTTK\Project\obj\Debug\Project.Reports.RP_DoanhThu.resources
+E:\Project PTTK\Project\obj\Debug\Project.Reports.RP_HangBanChay.resources
+E:\Project PTTK\Project\obj\Debug\Project.Reports.RP_NhapHang.resources
+E:\Project PTTK\Project\obj\Debug\Project.Reports.RP_TonKho.resources
+E:\Project PTTK\Project\obj\Debug\Project.Reports.RP_XuatHang.resources
+E:\Project PTTK\Project\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Project PTTK\Project\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Project PTTK\Project\obj\Debug\Project.exe.licenses
+E:\Project PTTK\Project\obj\Debug\RdlCompile.cache
+E:\Project PTTK\Project\obj\Debug\RdlCompile.compiled
+E:\Project PTTK\Project\obj\Debug\Project.Component.UC_Nhap.resources
+E:\Project PTTK\Project\obj\Debug\Project.Component.UC_Xuat.resources
+E:\Sang\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\obj\Debug\Project.exe
+E:\Sang\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\obj\Debug\Project.pdb
+E:\Sang\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\bin\Debug\Project.exe
+E:\Sang\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\bin\Debug\Project.pdb
+E:\Sang\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+E:\Sang\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\obj\Debug\Project.g.resources
+E:\Sang\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\obj\Debug\Project.Component.UC_GioiThieu.resources
+E:\Sang\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\obj\Debug\Project.Component.UC_DoiMatKhau.resources
+E:\Sang\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\obj\Debug\Project.Component.UC_KhachHang.resources
+E:\Sang\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\obj\Debug\Project.Component.UC_NhaCungCap.resources
+E:\Sang\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\obj\Debug\Project.Component.UC_NhanVien.resources
+E:\Sang\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\obj\Debug\Project.Component.UC_Nhap.resources
+E:\Sang\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\obj\Debug\Project.Component.UC_NhapHang.resources
+E:\Sang\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\obj\Debug\Project.Component.UC_QuanTri.resources
+E:\Sang\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\obj\Debug\Project.Component.UC_XeMay.resources
+E:\Sang\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\obj\Debug\Project.Component.UC_Xuat.resources
+E:\Sang\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\obj\Debug\Project.Component.UC_XuatHang.resources
+E:\Sang\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\obj\Debug\Project.frmMain.resources
+E:\Sang\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\obj\Debug\Project.frmDangNhap.resources
+E:\Sang\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\obj\Debug\Project.Properties.Resources.resources
+E:\Sang\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\obj\Debug\Project.Reports.In_DanhSachKhachHang.resources
+E:\Sang\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\obj\Debug\Project.Reports.In_DanhSachNhaCungCapcs.resources
+E:\Sang\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\obj\Debug\Project.Reports.In_DanhSachNhanVien.resources
+E:\Sang\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\obj\Debug\Project.Reports.In_DanhSachXeMay.resources
+E:\Sang\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\obj\Debug\Project.Reports.In_HoaDonNhap.resources
+E:\Sang\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\obj\Debug\Project.Reports.In_HoaDonXuat.resources
+E:\Sang\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\obj\Debug\Project.Reports.RP_DoanhThu.resources
+E:\Sang\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\obj\Debug\Project.Reports.RP_HangBanChay.resources
+E:\Sang\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\obj\Debug\Project.Reports.RP_NhapHang.resources
+E:\Sang\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\obj\Debug\Project.Reports.RP_TonKho.resources
+E:\Sang\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\obj\Debug\Project.Reports.RP_XuatHang.resources
+E:\Sang\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+E:\Sang\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\obj\Debug\Project.exe.licenses
+E:\Sang\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\obj\Debug\RdlCompile.cache
+E:\Sang\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\obj\Debug\RdlCompile.compiled
+D:\DO AN TOT NGHIEP\CODE CU\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\obj\Debug\Project.exe
+D:\DO AN TOT NGHIEP\CODE CU\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\obj\Debug\Project.pdb
+D:\DO AN TOT NGHIEP\CODE CU\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\bin\Debug\Project.exe
+D:\DO AN TOT NGHIEP\CODE CU\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\bin\Debug\Project.pdb
+D:\DO AN TOT NGHIEP\CODE CU\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+D:\DO AN TOT NGHIEP\CODE CU\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\obj\Debug\Project.g.resources
+D:\DO AN TOT NGHIEP\CODE CU\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\obj\Debug\Project.Component.UC_GioiThieu.resources
+D:\DO AN TOT NGHIEP\CODE CU\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\obj\Debug\Project.Component.UC_DoiMatKhau.resources
+D:\DO AN TOT NGHIEP\CODE CU\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\obj\Debug\Project.Component.UC_KhachHang.resources
+D:\DO AN TOT NGHIEP\CODE CU\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\obj\Debug\Project.Component.UC_NhaCungCap.resources
+D:\DO AN TOT NGHIEP\CODE CU\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\obj\Debug\Project.Component.UC_NhanVien.resources
+D:\DO AN TOT NGHIEP\CODE CU\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\obj\Debug\Project.Component.UC_Nhap.resources
+D:\DO AN TOT NGHIEP\CODE CU\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\obj\Debug\Project.Component.UC_NhapHang.resources
+D:\DO AN TOT NGHIEP\CODE CU\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\obj\Debug\Project.Component.UC_QuanTri.resources
+D:\DO AN TOT NGHIEP\CODE CU\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\obj\Debug\Project.Component.UC_XeMay.resources
+D:\DO AN TOT NGHIEP\CODE CU\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\obj\Debug\Project.Component.UC_Xuat.resources
+D:\DO AN TOT NGHIEP\CODE CU\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\obj\Debug\Project.Component.UC_XuatHang.resources
+D:\DO AN TOT NGHIEP\CODE CU\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\obj\Debug\Project.frmMain.resources
+D:\DO AN TOT NGHIEP\CODE CU\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\obj\Debug\Project.frmDangNhap.resources
+D:\DO AN TOT NGHIEP\CODE CU\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\obj\Debug\Project.Properties.Resources.resources
+D:\DO AN TOT NGHIEP\CODE CU\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\obj\Debug\Project.Reports.In_DanhSachKhachHang.resources
+D:\DO AN TOT NGHIEP\CODE CU\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\obj\Debug\Project.Reports.In_DanhSachNhaCungCapcs.resources
+D:\DO AN TOT NGHIEP\CODE CU\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\obj\Debug\Project.Reports.In_DanhSachNhanVien.resources
+D:\DO AN TOT NGHIEP\CODE CU\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\obj\Debug\Project.Reports.In_DanhSachXeMay.resources
+D:\DO AN TOT NGHIEP\CODE CU\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\obj\Debug\Project.Reports.In_HoaDonNhap.resources
+D:\DO AN TOT NGHIEP\CODE CU\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\obj\Debug\Project.Reports.In_HoaDonXuat.resources
+D:\DO AN TOT NGHIEP\CODE CU\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\obj\Debug\Project.Reports.RP_DoanhThu.resources
+D:\DO AN TOT NGHIEP\CODE CU\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\obj\Debug\Project.Reports.RP_HangBanChay.resources
+D:\DO AN TOT NGHIEP\CODE CU\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\obj\Debug\Project.Reports.RP_NhapHang.resources
+D:\DO AN TOT NGHIEP\CODE CU\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\obj\Debug\Project.Reports.RP_TonKho.resources
+D:\DO AN TOT NGHIEP\CODE CU\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\obj\Debug\Project.Reports.RP_XuatHang.resources
+D:\DO AN TOT NGHIEP\CODE CU\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+D:\DO AN TOT NGHIEP\CODE CU\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\obj\Debug\Project.exe.licenses
+D:\DO AN TOT NGHIEP\CODE CU\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\obj\Debug\RdlCompile.cache
+D:\DO AN TOT NGHIEP\CODE CU\Project PTTTHT 2013\Project bao cao cuoi ki\PTTKHT\Project\obj\Debug\RdlCompile.compiled
+D:\LUAN VAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.exe
+D:\LUAN VAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.pdb
+D:\LUAN VAN TOT NGHIEP\PROJECT_QLBXM\bin\Debug\Project.exe
+D:\LUAN VAN TOT NGHIEP\PROJECT_QLBXM\bin\Debug\Project.pdb
+D:\LUAN VAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.csprojResolveAssemblyReference.cache
+D:\LUAN VAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.g.resources
+D:\LUAN VAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.Component.UC_GioiThieu.resources
+D:\LUAN VAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.Component.UC_DoiMatKhau.resources
+D:\LUAN VAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.Component.UC_KhachHang.resources
+D:\LUAN VAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.Component.UC_NhaCungCap.resources
+D:\LUAN VAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.Component.UC_NhanVien.resources
+D:\LUAN VAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.Component.UC_Nhap.resources
+D:\LUAN VAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.Component.UC_NhapHang.resources
+D:\LUAN VAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.Component.UC_QuanTri.resources
+D:\LUAN VAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.Component.UC_XeMay.resources
+D:\LUAN VAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.Component.UC_Xuat.resources
+D:\LUAN VAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.Component.UC_XuatHang.resources
+D:\LUAN VAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.frmMain.resources
+D:\LUAN VAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.frmDangNhap.resources
+D:\LUAN VAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.Properties.Resources.resources
+D:\LUAN VAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.Reports.In_DanhSachKhachHang.resources
+D:\LUAN VAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.Reports.In_DanhSachNhaCungCapcs.resources
+D:\LUAN VAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.Reports.In_DanhSachNhanVien.resources
+D:\LUAN VAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.Reports.In_DanhSachXeMay.resources
+D:\LUAN VAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.Reports.In_HoaDonNhap.resources
+D:\LUAN VAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.Reports.In_HoaDonXuat.resources
+D:\LUAN VAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.Reports.RP_DoanhThu.resources
+D:\LUAN VAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.Reports.RP_HangBanChay.resources
+D:\LUAN VAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.Reports.RP_NhapHang.resources
+D:\LUAN VAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.Reports.RP_TonKho.resources
+D:\LUAN VAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.Reports.RP_XuatHang.resources
+D:\LUAN VAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.csproj.GenerateResource.Cache
+D:\LUAN VAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.exe.licenses
+D:\LUAN VAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\RdlCompile.cache
+D:\LUAN VAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\RdlCompile.compiled
+D:\LUAN VAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.Component.UC_BaoHanh.resources
+D:\LUAN VAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.Component.UC_Chitietbaohanh.resources
+D:\LUAN VAN TOT NGHIEP\PHIEN BAN\PROJECT_QLBXM\bin\Debug\Project.exe
+D:\LUAN VAN TOT NGHIEP\PHIEN BAN\PROJECT_QLBXM\bin\Debug\Project.pdb
+D:\LUAN VAN TOT NGHIEP\PHIEN BAN\PROJECT_QLBXM\obj\Debug\Project.g.resources
+D:\LUAN VAN TOT NGHIEP\PHIEN BAN\PROJECT_QLBXM\obj\Debug\Project.Component.UC_BaoHanh.resources
+D:\LUAN VAN TOT NGHIEP\PHIEN BAN\PROJECT_QLBXM\obj\Debug\Project.Component.UC_Chitietbaohanh.resources
+D:\LUAN VAN TOT NGHIEP\PHIEN BAN\PROJECT_QLBXM\obj\Debug\Project.Component.UC_GioiThieu.resources
+D:\LUAN VAN TOT NGHIEP\PHIEN BAN\PROJECT_QLBXM\obj\Debug\Project.Component.UC_DoiMatKhau.resources
+D:\LUAN VAN TOT NGHIEP\PHIEN BAN\PROJECT_QLBXM\obj\Debug\Project.Component.UC_KhachHang.resources
+D:\LUAN VAN TOT NGHIEP\PHIEN BAN\PROJECT_QLBXM\obj\Debug\Project.Component.UC_NhaCungCap.resources
+D:\LUAN VAN TOT NGHIEP\PHIEN BAN\PROJECT_QLBXM\obj\Debug\Project.Component.UC_NhanVien.resources
+D:\LUAN VAN TOT NGHIEP\PHIEN BAN\PROJECT_QLBXM\obj\Debug\Project.Component.UC_Nhap.resources
+D:\LUAN VAN TOT NGHIEP\PHIEN BAN\PROJECT_QLBXM\obj\Debug\Project.Component.UC_NhapHang.resources
+D:\LUAN VAN TOT NGHIEP\PHIEN BAN\PROJECT_QLBXM\obj\Debug\Project.Component.UC_Phuchoi.resources
+D:\LUAN VAN TOT NGHIEP\PHIEN BAN\PROJECT_QLBXM\obj\Debug\Project.thu.UC_QLNhapHang.resources
+D:\LUAN VAN TOT NGHIEP\PHIEN BAN\PROJECT_QLBXM\obj\Debug\Project.Component.UC_QuanTri.resources
+D:\LUAN VAN TOT NGHIEP\PHIEN BAN\PROJECT_QLBXM\obj\Debug\Project.Component.UC_Saoluu.resources
+D:\LUAN VAN TOT NGHIEP\PHIEN BAN\PROJECT_QLBXM\obj\Debug\Project.Component.UC_XeMay.resources
+D:\LUAN VAN TOT NGHIEP\PHIEN BAN\PROJECT_QLBXM\obj\Debug\Project.Component.UC_Xuat.resources
+D:\LUAN VAN TOT NGHIEP\PHIEN BAN\PROJECT_QLBXM\obj\Debug\Project.Component.UC_XuatHang.resources
+D:\LUAN VAN TOT NGHIEP\PHIEN BAN\PROJECT_QLBXM\obj\Debug\Project.frmConnection.resources
+D:\LUAN VAN TOT NGHIEP\PHIEN BAN\PROJECT_QLBXM\obj\Debug\Project.frmMain.resources
+D:\LUAN VAN TOT NGHIEP\PHIEN BAN\PROJECT_QLBXM\obj\Debug\Project.frmDangNhap.resources
+D:\LUAN VAN TOT NGHIEP\PHIEN BAN\PROJECT_QLBXM\obj\Debug\Project.Properties.Resources.resources
+D:\LUAN VAN TOT NGHIEP\PHIEN BAN\PROJECT_QLBXM\obj\Debug\Project.Reports.In_DanhSachKhachHang.resources
+D:\LUAN VAN TOT NGHIEP\PHIEN BAN\PROJECT_QLBXM\obj\Debug\Project.Reports.In_DanhSachNhaCungCapcs.resources
+D:\LUAN VAN TOT NGHIEP\PHIEN BAN\PROJECT_QLBXM\obj\Debug\Project.Reports.In_DanhSachNhanVien.resources
+D:\LUAN VAN TOT NGHIEP\PHIEN BAN\PROJECT_QLBXM\obj\Debug\Project.Reports.In_DanhSachXeMay.resources
+D:\LUAN VAN TOT NGHIEP\PHIEN BAN\PROJECT_QLBXM\obj\Debug\Project.Reports.In_HoaDonNhap.resources
+D:\LUAN VAN TOT NGHIEP\PHIEN BAN\PROJECT_QLBXM\obj\Debug\Project.Reports.In_HoaDonXuat.resources
+D:\LUAN VAN TOT NGHIEP\PHIEN BAN\PROJECT_QLBXM\obj\Debug\Project.Reports.RP_DoanhThu.resources
+D:\LUAN VAN TOT NGHIEP\PHIEN BAN\PROJECT_QLBXM\obj\Debug\Project.Reports.RP_HangBanChay.resources
+D:\LUAN VAN TOT NGHIEP\PHIEN BAN\PROJECT_QLBXM\obj\Debug\Project.Reports.RP_NhapHang.resources
+D:\LUAN VAN TOT NGHIEP\PHIEN BAN\PROJECT_QLBXM\obj\Debug\Project.Reports.RP_TonKho.resources
+D:\LUAN VAN TOT NGHIEP\PHIEN BAN\PROJECT_QLBXM\obj\Debug\Project.Reports.RP_XuatHang.resources
+D:\LUAN VAN TOT NGHIEP\PHIEN BAN\PROJECT_QLBXM\obj\Debug\Project.csproj.GenerateResource.Cache
+D:\LUAN VAN TOT NGHIEP\PHIEN BAN\PROJECT_QLBXM\obj\Debug\Project.exe.licenses
+D:\LUAN VAN TOT NGHIEP\PHIEN BAN\PROJECT_QLBXM\obj\Debug\RdlCompile.cache
+D:\LUAN VAN TOT NGHIEP\PHIEN BAN\PROJECT_QLBXM\obj\Debug\RdlCompile.compiled
+D:\LUAN VAN TOT NGHIEP\PHIEN BAN\PROJECT_QLBXM\obj\Debug\Project.exe
+D:\LUAN VAN TOT NGHIEP\PHIEN BAN\PROJECT_QLBXM\obj\Debug\Project.pdb
+D:\LUAN VAN TOT NGHIEP\PHIEN BAN\PROJECT_QLBXM\obj\Debug\Project.csprojResolveAssemblyReference.cache
+D:\PROJECT_QLBXM 29\PROJECT_QLBXM\obj\Debug\Project.exe
+D:\PROJECT_QLBXM 29\PROJECT_QLBXM\obj\Debug\Project.pdb
+D:\PROJECT_QLBXM 29\PROJECT_QLBXM\bin\Debug\Project.exe
+D:\PROJECT_QLBXM 29\PROJECT_QLBXM\bin\Debug\Project.pdb
+D:\PROJECT_QLBXM 29\PROJECT_QLBXM\obj\Debug\Project.csprojResolveAssemblyReference.cache
+D:\PROJECT_QLBXM 29\PROJECT_QLBXM\obj\Debug\Project.g.resources
+D:\PROJECT_QLBXM 29\PROJECT_QLBXM\obj\Debug\Project.Component.UC_BaoHanh.resources
+D:\PROJECT_QLBXM 29\PROJECT_QLBXM\obj\Debug\Project.Component.UC_Chitietbaohanh.resources
+D:\PROJECT_QLBXM 29\PROJECT_QLBXM\obj\Debug\Project.Component.UC_GioiThieu.resources
+D:\PROJECT_QLBXM 29\PROJECT_QLBXM\obj\Debug\Project.Component.UC_DoiMatKhau.resources
+D:\PROJECT_QLBXM 29\PROJECT_QLBXM\obj\Debug\Project.Component.UC_KhachHang.resources
+D:\PROJECT_QLBXM 29\PROJECT_QLBXM\obj\Debug\Project.Component.UC_NhaCungCap.resources
+D:\PROJECT_QLBXM 29\PROJECT_QLBXM\obj\Debug\Project.Component.UC_NhanVien.resources
+D:\PROJECT_QLBXM 29\PROJECT_QLBXM\obj\Debug\Project.Component.UC_Nhap.resources
+D:\PROJECT_QLBXM 29\PROJECT_QLBXM\obj\Debug\Project.Component.UC_NhapHang.resources
+D:\PROJECT_QLBXM 29\PROJECT_QLBXM\obj\Debug\Project.Component.UC_Phuchoi.resources
+D:\PROJECT_QLBXM 29\PROJECT_QLBXM\obj\Debug\Project.thu.UC_QLNhapHang.resources
+D:\PROJECT_QLBXM 29\PROJECT_QLBXM\obj\Debug\Project.Component.UC_QuanTri.resources
+D:\PROJECT_QLBXM 29\PROJECT_QLBXM\obj\Debug\Project.Component.UC_Saoluu.resources
+D:\PROJECT_QLBXM 29\PROJECT_QLBXM\obj\Debug\Project.Component.UC_XeMay.resources
+D:\PROJECT_QLBXM 29\PROJECT_QLBXM\obj\Debug\Project.Component.UC_Xuat.resources
+D:\PROJECT_QLBXM 29\PROJECT_QLBXM\obj\Debug\Project.Component.UC_XuatHang.resources
+D:\PROJECT_QLBXM 29\PROJECT_QLBXM\obj\Debug\Project.frmConnection.resources
+D:\PROJECT_QLBXM 29\PROJECT_QLBXM\obj\Debug\Project.frmMain.resources
+D:\PROJECT_QLBXM 29\PROJECT_QLBXM\obj\Debug\Project.frmDangNhap.resources
+D:\PROJECT_QLBXM 29\PROJECT_QLBXM\obj\Debug\Project.Properties.Resources.resources
+D:\PROJECT_QLBXM 29\PROJECT_QLBXM\obj\Debug\Project.Reports.In_DanhSachKhachHang.resources
+D:\PROJECT_QLBXM 29\PROJECT_QLBXM\obj\Debug\Project.Reports.In_DanhSachNhaCungCapcs.resources
+D:\PROJECT_QLBXM 29\PROJECT_QLBXM\obj\Debug\Project.Reports.In_DanhSachNhanVien.resources
+D:\PROJECT_QLBXM 29\PROJECT_QLBXM\obj\Debug\Project.Reports.In_DanhSachXeMay.resources
+D:\PROJECT_QLBXM 29\PROJECT_QLBXM\obj\Debug\Project.Reports.In_HoaDonNhap.resources
+D:\PROJECT_QLBXM 29\PROJECT_QLBXM\obj\Debug\Project.Reports.In_HoaDonXuat.resources
+D:\PROJECT_QLBXM 29\PROJECT_QLBXM\obj\Debug\Project.Reports.RP_DoanhThu.resources
+D:\PROJECT_QLBXM 29\PROJECT_QLBXM\obj\Debug\Project.Reports.RP_HangBanChay.resources
+D:\PROJECT_QLBXM 29\PROJECT_QLBXM\obj\Debug\Project.Reports.RP_NhapHang.resources
+D:\PROJECT_QLBXM 29\PROJECT_QLBXM\obj\Debug\Project.Reports.RP_TonKho.resources
+D:\PROJECT_QLBXM 29\PROJECT_QLBXM\obj\Debug\Project.Reports.RP_XuatHang.resources
+D:\PROJECT_QLBXM 29\PROJECT_QLBXM\obj\Debug\Project.csproj.GenerateResource.Cache
+D:\PROJECT_QLBXM 29\PROJECT_QLBXM\obj\Debug\Project.exe.licenses
+D:\PROJECT_QLBXM 29\PROJECT_QLBXM\obj\Debug\RdlCompile.cache
+D:\PROJECT_QLBXM 29\PROJECT_QLBXM\obj\Debug\RdlCompile.compiled
+D:\NGAY 24-11\PROJECT_QLBXM\bin\Debug\Project.exe
+D:\NGAY 24-11\PROJECT_QLBXM\bin\Debug\Project.pdb
+D:\NGAY 24-11\PROJECT_QLBXM\obj\Debug\Project.csprojResolveAssemblyReference.cache
+D:\NGAY 24-11\PROJECT_QLBXM\obj\Debug\Project.g.resources
+D:\NGAY 24-11\PROJECT_QLBXM\obj\Debug\Project.Component.UC_BaoHanh.resources
+D:\NGAY 24-11\PROJECT_QLBXM\obj\Debug\Project.Component.UC_Chitietbaohanh.resources
+D:\NGAY 24-11\PROJECT_QLBXM\obj\Debug\Project.Component.UC_GioiThieu.resources
+D:\NGAY 24-11\PROJECT_QLBXM\obj\Debug\Project.Component.UC_DoiMatKhau.resources
+D:\NGAY 24-11\PROJECT_QLBXM\obj\Debug\Project.Component.UC_KhachHang.resources
+D:\NGAY 24-11\PROJECT_QLBXM\obj\Debug\Project.Component.UC_NhaCungCap.resources
+D:\NGAY 24-11\PROJECT_QLBXM\obj\Debug\Project.Component.UC_NhanVien.resources
+D:\NGAY 24-11\PROJECT_QLBXM\obj\Debug\Project.Component.UC_Nhap.resources
+D:\NGAY 24-11\PROJECT_QLBXM\obj\Debug\Project.Component.UC_NhapHang.resources
+D:\NGAY 24-11\PROJECT_QLBXM\obj\Debug\Project.Component.UC_Phuchoi.resources
+D:\NGAY 24-11\PROJECT_QLBXM\obj\Debug\Project.Component.UC_QLNhapHang.resources
+D:\NGAY 24-11\PROJECT_QLBXM\obj\Debug\Project.Component.UC_QLXuatHang.resources
+D:\NGAY 24-11\PROJECT_QLBXM\obj\Debug\Project.Component.UC_QuanTri.resources
+D:\NGAY 24-11\PROJECT_QLBXM\obj\Debug\Project.Component.UC_Saoluu.resources
+D:\NGAY 24-11\PROJECT_QLBXM\obj\Debug\Project.Component.UC_XeMay.resources
+D:\NGAY 24-11\PROJECT_QLBXM\obj\Debug\Project.Component.UC_Xuat.resources
+D:\NGAY 24-11\PROJECT_QLBXM\obj\Debug\Project.Component.UC_XuatHang.resources
+D:\NGAY 24-11\PROJECT_QLBXM\obj\Debug\Project.frmConnection.resources
+D:\NGAY 24-11\PROJECT_QLBXM\obj\Debug\Project.frmMain.resources
+D:\NGAY 24-11\PROJECT_QLBXM\obj\Debug\Project.frmDangNhap.resources
+D:\NGAY 24-11\PROJECT_QLBXM\obj\Debug\Project.Properties.Resources.resources
+D:\NGAY 24-11\PROJECT_QLBXM\obj\Debug\Project.Reports.In_DanhSachKhachHang.resources
+D:\NGAY 24-11\PROJECT_QLBXM\obj\Debug\Project.Reports.In_DanhSachNhaCungCapcs.resources
+D:\NGAY 24-11\PROJECT_QLBXM\obj\Debug\Project.Reports.In_DanhSachNhanVien.resources
+D:\NGAY 24-11\PROJECT_QLBXM\obj\Debug\Project.Reports.In_DanhSachXeMay.resources
+D:\NGAY 24-11\PROJECT_QLBXM\obj\Debug\Project.Reports.In_HoaDonNhap.resources
+D:\NGAY 24-11\PROJECT_QLBXM\obj\Debug\Project.Reports.In_HoaDonXuat.resources
+D:\NGAY 24-11\PROJECT_QLBXM\obj\Debug\Project.Reports.RP_DoanhThu.resources
+D:\NGAY 24-11\PROJECT_QLBXM\obj\Debug\Project.Reports.RP_HangBanChay.resources
+D:\NGAY 24-11\PROJECT_QLBXM\obj\Debug\Project.Reports.RP_NhapHang.resources
+D:\NGAY 24-11\PROJECT_QLBXM\obj\Debug\Project.Reports.RP_TonKho.resources
+D:\NGAY 24-11\PROJECT_QLBXM\obj\Debug\Project.Reports.RP_XuatHang.resources
+D:\NGAY 24-11\PROJECT_QLBXM\obj\Debug\Project.csproj.GenerateResource.Cache
+D:\NGAY 24-11\PROJECT_QLBXM\obj\Debug\Project.exe.licenses
+D:\NGAY 24-11\PROJECT_QLBXM\obj\Debug\RdlCompile.cache
+D:\NGAY 24-11\PROJECT_QLBXM\obj\Debug\RdlCompile.compiled
+D:\NGAY 24-11\PROJECT_QLBXM\obj\Debug\Project.exe
+D:\NGAY 24-11\PROJECT_QLBXM\obj\Debug\Project.pdb
+D:\KHOA LUAN TOT NGHIEP\PROJECT_QLBXM\bin\Debug\Project.exe
+D:\KHOA LUAN TOT NGHIEP\PROJECT_QLBXM\bin\Debug\Project.pdb
+D:\KHOA LUAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.csprojResolveAssemblyReference.cache
+D:\KHOA LUAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.g.resources
+D:\KHOA LUAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.Component.UC_BaoHanh.resources
+D:\KHOA LUAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.Component.UC_Chitietbaohanh.resources
+D:\KHOA LUAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.Component.UC_GioiThieu.resources
+D:\KHOA LUAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.Component.UC_DoiMatKhau.resources
+D:\KHOA LUAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.Component.UC_KhachHang.resources
+D:\KHOA LUAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.Component.UC_NhaCungCap.resources
+D:\KHOA LUAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.Component.UC_NhanVien.resources
+D:\KHOA LUAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.Component.UC_Nhap.resources
+D:\KHOA LUAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.Component.UC_NhapHang.resources
+D:\KHOA LUAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.Component.UC_Phuchoi.resources
+D:\KHOA LUAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.Component.UC_QLNhapHang.resources
+D:\KHOA LUAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.Component.UC_QLXuatHang.resources
+D:\KHOA LUAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.Component.UC_QuanTri.resources
+D:\KHOA LUAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.Component.UC_Saoluu.resources
+D:\KHOA LUAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.Component.UC_XeMay.resources
+D:\KHOA LUAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.Component.UC_Xuat.resources
+D:\KHOA LUAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.Component.UC_XuatHang.resources
+D:\KHOA LUAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.frmConnection.resources
+D:\KHOA LUAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.frmMain.resources
+D:\KHOA LUAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.frmDangNhap.resources
+D:\KHOA LUAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.Properties.Resources.resources
+D:\KHOA LUAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.Reports.In_DanhSachKhachHang.resources
+D:\KHOA LUAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.Reports.In_DanhSachNhaCungCapcs.resources
+D:\KHOA LUAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.Reports.In_DanhSachNhanVien.resources
+D:\KHOA LUAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.Reports.In_DanhSachXeMay.resources
+D:\KHOA LUAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.Reports.In_HoaDonNhap.resources
+D:\KHOA LUAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.Reports.In_HoaDonXuat.resources
+D:\KHOA LUAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.Reports.RP_DoanhThu.resources
+D:\KHOA LUAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.Reports.RP_HangBanChay.resources
+D:\KHOA LUAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.Reports.RP_NhapHang.resources
+D:\KHOA LUAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.Reports.RP_TonKho.resources
+D:\KHOA LUAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.Reports.RP_XuatHang.resources
+D:\KHOA LUAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.csproj.GenerateResource.Cache
+D:\KHOA LUAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.exe.licenses
+D:\KHOA LUAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\RdlCompile.cache
+D:\KHOA LUAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\RdlCompile.compiled
+D:\KHOA LUAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.exe
+D:\KHOA LUAN TOT NGHIEP\PROJECT_QLBXM\obj\Debug\Project.pdb
+C:\Users\HP\Desktop\hoc\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.exe
+C:\Users\HP\Desktop\hoc\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.pdb
+C:\Users\HP\Desktop\hoc\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.g.resources
+C:\Users\HP\Desktop\hoc\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.Component.UC_BaoHanh.resources
+C:\Users\HP\Desktop\hoc\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.Component.UC_Chitietbaohanh.resources
+C:\Users\HP\Desktop\hoc\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.Component.UC_GioiThieu.resources
+C:\Users\HP\Desktop\hoc\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.Component.UC_DoiMatKhau.resources
+C:\Users\HP\Desktop\hoc\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.Component.UC_KhachHang.resources
+C:\Users\HP\Desktop\hoc\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.Component.UC_NhaCungCap.resources
+C:\Users\HP\Desktop\hoc\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.Component.UC_NhanVien.resources
+C:\Users\HP\Desktop\hoc\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.Component.UC_Nhap.resources
+C:\Users\HP\Desktop\hoc\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.Component.UC_NhapHang.resources
+C:\Users\HP\Desktop\hoc\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.Component.UC_Phuchoi.resources
+C:\Users\HP\Desktop\hoc\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.Component.UC_QLNhapHang.resources
+C:\Users\HP\Desktop\hoc\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.Component.UC_QLXuatHang.resources
+C:\Users\HP\Desktop\hoc\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.Component.UC_QuanTri.resources
+C:\Users\HP\Desktop\hoc\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.Component.UC_Saoluu.resources
+C:\Users\HP\Desktop\hoc\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.Component.UC_XeMay.resources
+C:\Users\HP\Desktop\hoc\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.Component.UC_Xuat.resources
+C:\Users\HP\Desktop\hoc\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.Component.UC_XuatHang.resources
+C:\Users\HP\Desktop\hoc\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.frmConnection.resources
+C:\Users\HP\Desktop\hoc\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.frmMain.resources
+C:\Users\HP\Desktop\hoc\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.frmDangNhap.resources
+C:\Users\HP\Desktop\hoc\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.Properties.Resources.resources
+C:\Users\HP\Desktop\hoc\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.Reports.In_DanhSachKhachHang.resources
+C:\Users\HP\Desktop\hoc\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.Reports.In_DanhSachNhaCungCapcs.resources
+C:\Users\HP\Desktop\hoc\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.Reports.In_DanhSachNhanVien.resources
+C:\Users\HP\Desktop\hoc\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.Reports.In_DanhSachXeMay.resources
+C:\Users\HP\Desktop\hoc\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.Reports.In_HoaDonNhap.resources
+C:\Users\HP\Desktop\hoc\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.Reports.In_HoaDonXuat.resources
+C:\Users\HP\Desktop\hoc\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.Reports.RP_DoanhThu.resources
+C:\Users\HP\Desktop\hoc\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.Reports.RP_HangBanChay.resources
+C:\Users\HP\Desktop\hoc\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.Reports.RP_NhapHang.resources
+C:\Users\HP\Desktop\hoc\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.Reports.RP_TonKho.resources
+C:\Users\HP\Desktop\hoc\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.Reports.RP_XuatHang.resources
+C:\Users\HP\Desktop\hoc\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\hoc\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.exe.licenses
+C:\Users\HP\Desktop\hoc\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\bin\Debug\Project.exe
+C:\Users\HP\Desktop\hoc\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\bin\Debug\Project.pdb
+C:\Users\HP\Desktop\hoc\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\RdlCompile.cache
+C:\Users\HP\Desktop\hoc\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\RdlCompile.compiled
+C:\Users\HP\Desktop\hoc\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\hoc_end\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.exe
+C:\Users\HP\Desktop\hoc_end\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.pdb
+C:\Users\HP\Desktop\hoc_end\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\hoc_end\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.g.resources
+C:\Users\HP\Desktop\hoc_end\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.Component.UC_BaoHanh.resources
+C:\Users\HP\Desktop\hoc_end\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.Component.UC_Chitietbaohanh.resources
+C:\Users\HP\Desktop\hoc_end\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.Component.UC_GioiThieu.resources
+C:\Users\HP\Desktop\hoc_end\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.Component.UC_DoiMatKhau.resources
+C:\Users\HP\Desktop\hoc_end\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.Component.UC_KhachHang.resources
+C:\Users\HP\Desktop\hoc_end\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.Component.UC_NhaCungCap.resources
+C:\Users\HP\Desktop\hoc_end\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.Component.UC_NhanVien.resources
+C:\Users\HP\Desktop\hoc_end\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.Component.UC_Nhap.resources
+C:\Users\HP\Desktop\hoc_end\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.Component.UC_NhapHang.resources
+C:\Users\HP\Desktop\hoc_end\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.Component.UC_Phuchoi.resources
+C:\Users\HP\Desktop\hoc_end\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.Component.UC_QLNhapHang.resources
+C:\Users\HP\Desktop\hoc_end\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.Component.UC_QLXuatHang.resources
+C:\Users\HP\Desktop\hoc_end\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.Component.UC_QuanTri.resources
+C:\Users\HP\Desktop\hoc_end\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.Component.UC_Saoluu.resources
+C:\Users\HP\Desktop\hoc_end\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.Component.UC_XeMay.resources
+C:\Users\HP\Desktop\hoc_end\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.Component.UC_Xuat.resources
+C:\Users\HP\Desktop\hoc_end\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.Component.UC_XuatHang.resources
+C:\Users\HP\Desktop\hoc_end\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.frmConnection.resources
+C:\Users\HP\Desktop\hoc_end\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.frmMain.resources
+C:\Users\HP\Desktop\hoc_end\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.frmDangNhap.resources
+C:\Users\HP\Desktop\hoc_end\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.Properties.Resources.resources
+C:\Users\HP\Desktop\hoc_end\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.Reports.In_DanhSachKhachHang.resources
+C:\Users\HP\Desktop\hoc_end\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.Reports.In_DanhSachNhaCungCapcs.resources
+C:\Users\HP\Desktop\hoc_end\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.Reports.In_DanhSachNhanVien.resources
+C:\Users\HP\Desktop\hoc_end\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.Reports.In_DanhSachXeMay.resources
+C:\Users\HP\Desktop\hoc_end\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.Reports.In_HoaDonNhap.resources
+C:\Users\HP\Desktop\hoc_end\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.Reports.In_HoaDonXuat.resources
+C:\Users\HP\Desktop\hoc_end\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.Reports.RP_DoanhThu.resources
+C:\Users\HP\Desktop\hoc_end\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.Reports.RP_HangBanChay.resources
+C:\Users\HP\Desktop\hoc_end\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.Reports.RP_NhapHang.resources
+C:\Users\HP\Desktop\hoc_end\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.Reports.RP_TonKho.resources
+C:\Users\HP\Desktop\hoc_end\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.Reports.RP_XuatHang.resources
+C:\Users\HP\Desktop\hoc_end\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\hoc_end\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\Project.exe.licenses
+C:\Users\HP\Desktop\hoc_end\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\RdlCompile.cache
+C:\Users\HP\Desktop\hoc_end\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\obj\Debug\RdlCompile.compiled
+C:\Users\HP\Desktop\hoc_end\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\bin\Debug\Project.exe
+C:\Users\HP\Desktop\hoc_end\KHOA LUAN TOT NGHIEP\Bao cao KLTN\PROJECT_QLBXM\bin\Debug\Project.pdb
